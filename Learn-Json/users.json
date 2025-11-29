@@ -1,0 +1,21 @@
+
+{
+    "users":[
+        {
+            "name":"John",
+            "age":30
+        },
+        {
+             "name":"Mary",
+            "age":27
+        },
+        {
+             "name":"Harry",
+            "age":29
+        },
+        {
+             "name":"Carol",
+            "age":25
+        }
+    ]
+}
