@@ -1,0 +1,10 @@
+function remove_word_form_list(word_list, word_to_remove) {
+    let result = [];
+    for (let i = 0; i < word_list.length; i++) {
+        if(word_list[i] !== word_to_remove){
+            result.push(word_list[i]);
+        }
+    }return result;
+}
+
+console.log(remove_word_form_list(["apple", "banana" ,"cherry", "date"], "banana"));
