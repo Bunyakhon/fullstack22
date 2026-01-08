@@ -7,3 +7,5 @@ class Song{
 const mySong = new Song("Behemain Thasody","Queen");
 console.log(mySong.title);
 console.log(mySong.artist);
+console.log(mySong);
+console.log(typeof mySong);
